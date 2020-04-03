@@ -1,3 +1,3 @@
 # liantest_git
-test_gitd
+test_git
 first commit
